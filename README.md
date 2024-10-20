@@ -31,4 +31,5 @@ Color_Red	Color_Blue	Color_Green
 1	         0	           0
 
 0	         1	           0
+
 In this way, one-hot encoding provides a method for converting categorical data into a format that can be fed into machine learning models.
