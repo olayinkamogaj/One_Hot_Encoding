@@ -6,17 +6,29 @@ This method increases the dimensionality of the dataset but ensures that no unin
 Here’s a visual representation of the transformation process:
 
 Initial Categorical Data:
+
 Color
+
 Red
+
 Blue
+
 Green
+
 Red
+
 Blue
+
 After One-Hot Encoding:
+
 Color_Red	Color_Blue	Color_Green
 1	         0	           0
+
 0	         1	           0
+
 0	         0	           1
+
 1	         0	           0
+
 0	         1	           0
 In this way, one-hot encoding provides a method for converting categorical data into a format that can be fed into machine learning models.
